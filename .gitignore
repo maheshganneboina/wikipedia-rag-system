@@ -1,0 +1,7 @@
+.DS_Store
+chroma_store/
+*.bz2
+*.txt
+wiki_articles.json
+__pycache__/
+.env
