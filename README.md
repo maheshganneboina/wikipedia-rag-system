@@ -1,4 +1,4 @@
-🚀 Wikipedia RAG System
+[wikipedia_rag_architecture.html](https://github.com/user-attachments/files/26074822/wikipedia_rag_architecture.html)🚀 Wikipedia RAG System
 
 An end-to-end Retrieval-Augmented Generation (RAG) system built using Wikipedia data, enabling grounded question answering using vector search and LLMs.
 📌 Overview
@@ -67,9 +67,7 @@ Wikipedia XML dump (data source)
 
 
 📂 Project Structure
-├── extract_wiki.py      # Extract + clean Wikipedia data
-├── build_db.py          # Chunk + embed + store in Chroma
-├── ask.py               # Query system (RAG pipeline)
-├── wiki_articles.json   # Extracted dataset
-├── chroma_store/        # Vector DB storage
-└── README.md
+
+![Image 3-17-26 at 11 32 PM](https://github.com/user-attachments/assets/fb9eb745-d107-4413-b825-8f5e0c7bdcf9)
+
+
