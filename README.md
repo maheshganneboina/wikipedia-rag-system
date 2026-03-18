@@ -1,4 +1,4 @@
-[wikipedia_rag_architecture.html](https://github.com/user-attachments/files/26074822/wikipedia_rag_architecture.html)🚀 Wikipedia RAG System
+Wikipedia RAG System
 
 An end-to-end Retrieval-Augmented Generation (RAG) system built using Wikipedia data, enabling grounded question answering using vector search and LLMs.
 📌 Overview
