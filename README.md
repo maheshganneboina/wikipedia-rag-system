@@ -66,7 +66,7 @@ OpenAI API (for generation)
 Wikipedia XML dump (data source)
 
 
-📂 Project Structure
+📂 Project Architecture
 
 ![Image 3-17-26 at 11 32 PM](https://github.com/user-attachments/assets/fb9eb745-d107-4413-b825-8f5e0c7bdcf9)
 
